@@ -1,0 +1,7 @@
+[Activity]
+name = GeoJAM
+bundle_id = GeoJAM.CeibalJAM.org
+exec = sugar-activity GeoJAM.GeoJAM
+icon = Sol
+activity_version = 3
+show_launcher = yes
